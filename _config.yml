@@ -1,0 +1,22 @@
+name: "dighteach"
+subname: "digital humanities design & programming"
+description: "a collection of resources for dh teaching..."
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: "/:categories/:title"
+highlighter: pygments
+
+excerpt_separator: <!--more-->
+
+collections:
+  library:
+    output: true
+  indices:
+    output: true    
+
+gems:
+  - jekyll-sitemap
