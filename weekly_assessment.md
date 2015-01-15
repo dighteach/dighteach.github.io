@@ -14,5 +14,6 @@ summary: weekly assessment for COMP 488 & DIGH 402
 
 #### Week 1 - 14th January 2015
 
-Please ensure you review this week's [notes and material](/notes), which includes the class and extra notes.
+* Review this week's [notes and material](/notes), which includes the class and extra notes.
+* Review the DH links and resources posted in the *[Links & Resources](/links)* section.
 

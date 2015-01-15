@@ -19,7 +19,7 @@ This material will be updated on a weekly basis.
 #### Notes
 
 * week 1 - 14th January 2015
-  * [course]()
+  * [course](/assets/docs/402week12015.pdf)
   * [extra](/assets/docs/402week1extra2015.pdf)
 
 

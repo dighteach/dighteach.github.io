@@ -22,4 +22,38 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+#### DH Websites & Projects
 
+* [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
+* [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
+* [Google Cultural Institute](http://www.google.com/culturalinstitute/#!home:page=1)
+* [Mapping the Republic of Letters](https://republicofletters.stanford.edu/)
+* [Mark Twain Project Online](http://www.marktwainproject.org/)
+* [Malory Project](http://www.maloryproject.com)
+* [Modernist Magazines Project](http://www.modernistmagazines.com)
+* [The Newton Project](http://www.newtonproject.sussex.ac.uk/prism.php?id=1)
+* [Nines](http://www.nines.org/)
+* [Nineteenth-Century Serials Edition](http://www.ncse.ac.uk/index.html)
+* [Papers Past](http://paperspast.natlib.govt.nz/cgi-bin/paperspast)
+* [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
+* [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
+* [Theban Mapping Project](http://www.thebanmappingproject.com/)
+* [UK Web Archive](http://www.webarchive.org.uk/ukwa/)
+* [Woolf Online](http://www.woolfonline.com)
+
+#### DH & Associated Blogs, News, Societies...
+
+* [Alliance of Digital Humanities Organizations](http://adho.org)
+* [Center for Public History + Digital Humanities](http://csudigitalhumanities.org/blog/)
+* [DH Now](http://digitalhumanitiesnow.org/)
+* [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
+* [Digital Koans](http://digital-scholarship.org/digitalkoans/)
+* [Digital Riffs](http://digitalriffs.blogspot.com/)
+* [Programming Historian](http://programminghistorian.org/)
+* [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
+
+#### DH Other Links
+
+* [British Library Digital Media](http://www.bl.uk/)
+* [EEBO](http://libraries.luc.edu/databases/database/891), [ECCO](http://libraries.luc.edu/databases/database/894), [NCCO](http://libraries.luc.edu/databases/database/1146)
+* [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
