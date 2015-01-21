@@ -22,7 +22,7 @@ There is no specific textbook for this course.
 ###### Week 2 - 21st January 2015
 
   * Suggested Reading
-    * Forta, Ben. *MySQL Crash Course* Sams Publishing. 2005.
+    * Forta, Ben. *MySQL Crash Course.* Sams Publishing. 2005.
     * W3C Schools. [SQL Tutorial](http://www.w3schools.com/sql/default.asp).
 
   * References
