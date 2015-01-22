@@ -25,6 +25,8 @@ summary: weekly assessment for COMP 488 & DIGH 402
   * populate each table with some dummy/test data to enable testing
   * perform some test queries of these tables using SQL queries and PHP
     * examples can be found in this week's course notes
+    
+We will discuss this work at the start of next week's class.
 
 #### Week 1 - 14th January 2015
 
