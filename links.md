@@ -57,3 +57,10 @@ If you have any suggestions for additions to this section of the site, please fe
 * [British Library Digital Media](http://www.bl.uk/)
 * [EEBO](http://libraries.luc.edu/databases/database/891), [ECCO](http://libraries.luc.edu/databases/database/894), [NCCO](http://libraries.luc.edu/databases/database/1146)
 * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+
+#### Tutorials
+
+* Raspberry Pi LAMP Stack Install
+  * [A Simple Wheezy LAMP Install](http://elinux.org/RPi_A_Simple_Wheezy_LAMP_install)
+  * [Turning your Raspberry Pi into a personal web server](http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/?ALLSTEPS)
+  * [Raspberry Pi as a LAMP server](http://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/02/24/raspberry-pi-as-a-lamp-server)
