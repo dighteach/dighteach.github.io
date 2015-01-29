@@ -12,6 +12,24 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 3 - 28th January 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes.
+* Please import the sample MySQL database, *402week3.sql*, which is available on GitHub.
+  * https://github.com/dighteach/source/tree/master/2015/DIGH402/week3
+  * import to a database called *402framework*
+  * add content to the *content* table
+  * add examples to the *content_lookup* table
+  * use the sample data to query your new database
+* Please review and test this week's code samples, which are available on GitHub,
+  * https://github.com/dighteach/source/tree/master/2015/DIGH402/week3
+  * test this code and query against the above imported database
+  
+The imported database will form the basis for the overall course framework as we progress through this semester. 
+We will modify and develop this database each week.
+
+We will go through this work at the start of next week's class. 
+  
 #### Week 2 - 21st January 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes.

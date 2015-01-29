@@ -19,6 +19,13 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
+###### Week 3 - 28th January 2015
+    
+  * References
+    * Ayres, P. and Sweller, J. *The split attention principle in multimedia learning.* The Cambridge handbook of multimedia learning. PP. 135-146. Cambridge University Press. 2005.
+    * Mayer, R.E., Moreno, R., Boire, M., and Vagge, S. *Maximising constructivist learning from multimedia communications by minimizing cognitive load.* Journal of Educational Psychology 91. PP.638-643. 1999.
+    * Moreno, R. and Mayer, R.E. *Cognitive principles of multimedia learning: The role of modality and contiguity.* Journal of Educational Psychology 91. PP.358-368. 1999.
+    
 ###### Week 2 - 21st January 2015
 
   * Suggested Reading
