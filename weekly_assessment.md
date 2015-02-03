@@ -17,7 +17,7 @@ summary: weekly assessment for COMP 488 & DIGH 402
 * Review this week's [notes and material](/notes), which includes the class and extra notes.
 * Please import the sample MySQL database, *402week3.sql*, which is available on GitHub.
   * [GitHub - Week 3](https://github.com/dighteach/source/tree/master/2015/DIGH402/week3)
-  * import to a database called *402framework*
+  * import to a new database called *402framework*
   * add content to the *content* table
   * add examples to the *content_lookup* table
   * use the sample data to query your new database
