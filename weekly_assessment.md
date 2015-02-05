@@ -12,6 +12,18 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 4 - 4th February 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes.
+* Please pull this week's source code from the course GitHub account,
+  * [GitHub - Week 4](https://github.com/dighteach/source/tree/master/2015/DIGH402/week4)
+* Using the above source code as an example, please write a PHP class and test script, which is able to produce the following output,
+  * output a user's username
+  * output a user's firstname and lastname
+  * output a user's age and gender
+  
+Please be prepared to briefly demonstrate this working code at the start of next week's class. 
+
 #### Week 3 - 28th January 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes.

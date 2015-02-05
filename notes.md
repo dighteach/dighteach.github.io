@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 4 - 4th February 2015
+  * [course](/assets/docs/402week42015.pdf)
+  * [extra](/assets/docs/402week4extra2015.pdf)
+
 ##### Week 3 - 28th January 2015
   * [course](/assets/docs/402week32015.pdf)
   * [extra](/assets/docs/402week3extra2015.pdf)

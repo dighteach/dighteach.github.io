@@ -19,6 +19,12 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
+###### Week 4 - 4th February 2015
+    
+  * References
+    * Mayer, R.E., Heiser, J., and Lonn, S. *Cognitive constraints on multimedia learning: When presenting more material results in less understanding.* Journal of Education Psychology 93. PP.187-198. 2001.
+    * Moreno, R., and Mayer, R.E. *A coherence effect in multimedia learning: The case for minimizing irrelevant sounds in the design of multimedia instructional messages.* Journal of Educational Psychology 92. PP.117-125. 2000.
+
 ###### Week 3 - 28th January 2015
     
   * References

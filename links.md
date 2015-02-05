@@ -66,3 +66,5 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Raspberry Pi as a LAMP server](http://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/02/24/raspberry-pi-as-a-lamp-server)
 * HomeBrew OS X LAMP Install
   * [OS X can use Homebrew to install PHP, MariaDB, and use built-in Apache 2](http://vanbosse.be/blog/detail/a-homebrew-lamp-stack)
+* Git Documentation
+  * [Git Documentation](http://git-scm.com/doc)
