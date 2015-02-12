@@ -12,6 +12,15 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 5 - 11th February 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes.
+* Please pull this week's source code from the course GitHub account,
+  * [GitHub - 402framework - v0.1](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.1)
+  * ensure this code is working correctly with your sample database
+* Please read the following guide on GitHub Forking
+  * [GitHub Help - Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+
 #### Week 4 - 4th February 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes.
