@@ -19,6 +19,12 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
+###### Week 6 - 18th February 2015
+
+  * References
+    * Mayer, R.E., Mathias, A., Wetzell, K. *Fostering understanding of multimedia messages through pretraining: Evidence for a two-stage theory of mental model construction.* Journal of Experimental Psychology: Applied 8. PP.147-154. 2002.
+    * Reeves, B., and Nass, C. *The media equation: How people treat computers, television, and new media like real people and places.* Cambridge University Press. 1996.
+
 ###### Week 5 - 11th February 2015
 
   * References

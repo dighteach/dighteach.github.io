@@ -12,6 +12,18 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 6 - 18th February 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes.
+* Please fork the 402framework from the course GitHub account, and merge this week's changes with your local copy
+  * [GitHub - 402framework Repository](https://github.com/dighteach/402framework)
+  * ensure this code is working correctly with your sample database
+* Please carefully read through this week's code, as detailed in the *402framework* repository
+  * ensure you understand how user requested content is called and loaded by the framework
+  * consider how we might modify the current code to implement a new controller
+* Please read through the following online tutorial
+  * [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
+
 #### Week 5 - 11th February 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes.
