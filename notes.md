@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 7 -25th February 2015
+  * [course](/assets/docs/402week72015.pdf)
+  * [extra](/assets/docs/402week7extra2015.pdf)
+
 ##### Week 6 -18th February 2015
   * [course](/assets/docs/402week62015.pdf)
   * [extra](/assets/docs/402week6extra2015.pdf)
