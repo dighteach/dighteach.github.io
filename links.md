@@ -71,6 +71,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * JQuery - [JQuery UI](http://learn.jquery.com/jquery-ui/getting-started/)
   * W3Schools - [Javascript Tutorial](http://www.w3schools.com/js/DEFAULT.asp)
   * W3Schools - [JQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
+* Metadata
+  * Dublin Core - [Metadata Basics](http://dublincore.org/metadata-basics/)
 * Raspberry Pi LAMP Stack Install
   * [A Simple Wheezy LAMP Install](http://elinux.org/RPi_A_Simple_Wheezy_LAMP_install)
   * [Turning your Raspberry Pi into a personal web server](http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/?ALLSTEPS)

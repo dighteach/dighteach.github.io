@@ -19,6 +19,12 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
+###### Week 9 - 11th March 2015
+
+  * References
+    * Atkinson, R.K., Renkl, A., & Merrill, M.M. *Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked out steps* Journal of Educational Psychology 95. PP. 774-783 2003.
+    * LeFevre, J.A., & Dixon, P. *Do written instructions need examples?* Cognition and Instruction 3. PP. 1-30. 1986.
+
 ###### Week 7 - 25th February 2015
 
   * References

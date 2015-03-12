@@ -12,6 +12,16 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 9 - 11th March 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please ensure you have read and understood the latest code for v0.4 of the 402framework, which is available on the course GitHub account
+  * [GitHub - v0.4](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.4)
+* Please carefully read the following tutorial on PHP,
+  * W3Schools - [PHP Tutorial](http://www.w3schools.com/php/)
+* Please prepare for a brief quiz on Javascript, which will be given at the start of our next class
+  * quiz will be based on the W3Schools [JavaScript Tutorial](http://www.w3schools.com/js/DEFAULT.asp) from *JS Events* to *JS Breaks* inclusive.
+
 #### Week 7 - 25th February 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes
