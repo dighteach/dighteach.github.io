@@ -12,6 +12,18 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 10 - 18th March 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please ensure you have read and understood the latest code for v0.5 of the 402framework, which is available on the course GitHub account
+  * [GitHub - v0.5](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.5)
+* Please ensure you have a working, up to date version of the 402framework. This includes the code for the latest version, [v0.5](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.5) on GitHub, and the
+SQL available in the [week 10 directory](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/sql/week10) on GitHub.
+* Please prepare for in-class PHP exercises and coding. This might include,
+  * a review of the W3Schools [PHP Tutorial](http://www.w3schools.com/php/)
+  * a review of the initial PHP.net [tutorial](http://php.net/manual/en/tutorial.php) and their [online documentation](http://php.net/docs.php)
+  * a careful review of each week's code in the [402framework directory](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework) on GitHub
+
 #### Week 9 - 11th March 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes

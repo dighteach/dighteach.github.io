@@ -19,6 +19,12 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
+###### Week 10 - 18th March 2013
+
+  * References
+    * Moreno, R. *Decreasing cognitive load for novice students: Effects of explanatory versus corrective feedback in discovery-based multimedia.* Instructional Science 32. PP.99-113. 2004.
+    * Slobada, J.A., Davidson, J.W., Howe, M.J.A., and Moore, D.G. *The role of practice in the development of performing musicians.* British Journal of Psychology 87. PP.287-309. 1996.
+
 ###### Week 9 - 11th March 2015
 
   * References
