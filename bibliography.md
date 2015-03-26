@@ -19,7 +19,14 @@ which will reflect each week's course notes and lecture.
 
 There is no specific textbook for this course.
 
-###### Week 10 - 18th March 2013
+###### Week 11 - 25th March 2015
+
+  * References
+    * Stone, N.J. *Exploring the relationship between calibration and self-regulated learning.* Educational Psychology Review 4. PP.437-475. 2000.
+    * Walczyk, J.J., and Hall, V.C. *Effects of examples and embedded questions on the accuracy of comprehension self-assessments.* Journal of Educational Psychology 81. PP.435-437. 1989.
+    * Young, J.D. *The effect of self-regulated learning strategies on performance in learner controlled computer-based instruction.* Educational Technology Research and Development 44. PP.17-27. 1996.
+
+###### Week 10 - 18th March 2015
 
   * References
     * Moreno, R. *Decreasing cognitive load for novice students: Effects of explanatory versus corrective feedback in discovery-based multimedia.* Instructional Science 32. PP.99-113. 2004.

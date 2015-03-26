@@ -12,6 +12,18 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 11 - 25th March 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please ensure you have read and understood the latest code for the 402mini framework, which is available on the course GitHub account
+  * [GitHub - 402mini](https://github.com/dighteach/source/tree/master/2015/DIGH402/402mini/week11)
+* **Dev week work**
+  * Please see page 4 of this week's course [notes](/notes) for full details on Dev week assignment
+  * Please email me with your [Trello](https://trello.com) username so I can add your account to the course's organisation
+    * [DIGH 402 Trello organisation](https://trello.com/b/8b9rQbIT/dev-week-updates)
+
+Please [contact](/contact) me if you have any questions or queries.
+
 #### Week 10 - 18th March 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes
