@@ -12,6 +12,31 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 13 - 8th April 2015
+
+* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please ensure you have read and understood the latest code for v0.6 and v0.7 of the 402framework, which is available on the course GitHub account
+  * [GitHub - v0.6](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.6)
+  * [GitHub - v0.7](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.7)
+* Please ensure you have a working, up to date version of the 402framework. This includes the code for the latest version, [v0.7](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.7) on GitHub, and the
+SQL available in the [week 13/402frameworkv0.7.sql directory](https://github.com/dighteach/source/blob/master/2015/DIGH402/402framework/sql/week13/402frameworkv0.7.sql) on GitHub.
+* Please ensure you have read and understood the latest code for the 402mini week 13 framework, which is available on the course GitHub account
+  * [GitHub - 402mini week 13](https://github.com/dighteach/source/tree/master/2015/DIGH402/402mini/week13)
+  * [402 mini test site](http://linode4.cs.luc.edu/teaching/digh/402mini-2/)
+* Carefully read slide 3 of this week's [course notes](http://dighteach.github.io/assets/docs/402week132015.pdf)
+  * begin preparation for your final course project assessment
+  * prepare a quick overview presentation for the start of next week's class. This should include the following,
+    * your project's chosen topic, data, and any supporting material
+    * your project's chosen or perceived target audience, and why
+    * initial underlying concept for content structure, including taxonomy and metadata
+    * any new formats, plugins, controllers etc you might be considering for the 402framework
+  * post these updates and overview material to the course Trello board,
+    * [Final Projects](https://trello.com/b/N5lOcxld/final-projects)
+
+Each project group will have an opportunity to discuss the above points at the start of next week's class. This is not meant as a full presentation, simply an opportunity to discuss options and project ideas.
+
+**NB:** Please send me the code for the Dev week updates your group created. This can be as an email attachement, pushed to your GitHub account etc...
+
 #### Week 11 - 25th March 2015
 
 * Review this week's [notes and material](/notes), which includes the class and extra notes

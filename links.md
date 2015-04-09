@@ -57,6 +57,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [British Library Digital Media](http://www.bl.uk/)
 * [EEBO](http://libraries.luc.edu/databases/database/891), [ECCO](http://libraries.luc.edu/databases/database/894), [NCCO](http://libraries.luc.edu/databases/database/1146)
 * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+* [Google Maps Demo](http://www.ancientlives.com/google/maps/)
 
 #### Tutorials
 
