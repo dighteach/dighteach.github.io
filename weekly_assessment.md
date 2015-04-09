@@ -35,7 +35,7 @@ SQL available in the [week 13/402frameworkv0.7.sql directory](https://github.com
 
 Each project group will have an opportunity to discuss the above points at the start of next week's class. This is not meant as a full presentation, simply an opportunity to discuss options and project ideas.
 
-**NB:** Please send me the code for the Dev week updates your group created. This can be as an email attachement, pushed to your GitHub account etc...
+**NB:** Please send me the code for the Dev week updates your group created. This can be as an email attachment, pushed to your GitHub account etc...
 
 #### Week 11 - 25th March 2015
 
