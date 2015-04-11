@@ -14,7 +14,7 @@ summary: coursework for COMP 488 & DIGH 402
 
 Assessed coursework will include the following primary categories
 
-#### 1. design project (50%)
+#### 1. design project (50%) - [Report outline](/assets/docs/DIGH402-FinalReportOutline.pdf)
   
 This assessment requires the *development, publication, and demonstration of an online DH resource*.
 
@@ -26,8 +26,8 @@ This assessment requires the *development, publication, and demonstration of an 
 ###### Additional requirements include
   * coding is important ie: it needs to at least work!
   * documentation of code
-  * repository publication, developer and user instructions…
-  * user testing (basic UI testing required)
+  * repository publication, user instructions…
+<!--  * user testing (basic UI testing required)-->
 
 Class update on *dev* work will be due on Wednesday 8th April 2015 @ 4.15pm.
   
