@@ -14,7 +14,8 @@ summary: weekly assessment for COMP 488 & DIGH 402
 
 #### Week 13 - 8th April 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review the [Final Report Outline](/assets/docs/DIGH402-FinalReportOutline.pdf).
 * Please ensure you have read and understood the latest code for v0.6 and v0.7 of the 402framework, which is available on the course GitHub account
   * [GitHub - v0.6](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.6)
   * [GitHub - v0.7](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.7)
@@ -39,7 +40,7 @@ Each project group will have an opportunity to discuss the above points at the s
 
 #### Week 11 - 25th March 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please ensure you have read and understood the latest code for the 402mini framework, which is available on the course GitHub account
   * [GitHub - 402mini](https://github.com/dighteach/source/tree/master/2015/DIGH402/402mini/week11)
 * **Dev week work**
@@ -51,7 +52,7 @@ Please [contact](/contact) me if you have any questions or queries.
 
 #### Week 10 - 18th March 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please ensure you have read and understood the latest code for v0.5 of the 402framework, which is available on the course GitHub account
   * [GitHub - v0.5](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.5)
 * Please ensure you have a working, up to date version of the 402framework. This includes the code for the latest version, [v0.5](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.5) on GitHub, and the
@@ -63,7 +64,7 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 
 #### Week 9 - 11th March 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please ensure you have read and understood the latest code for v0.4 of the 402framework, which is available on the course GitHub account
   * [GitHub - v0.4](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.4)
 * Please carefully read the following tutorial on PHP,
@@ -73,7 +74,7 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 
 #### Week 7 - 25th February 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please ensure you have the latest copy of the 402framework, which is available on the course GitHub account
   * fetch and merge this week's changes to the 402framework for the fork you created last week
   * test this latest version of the 402framework with the week 7 SQL you setup during class
@@ -86,7 +87,7 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 
 #### Week 6 - 18th February 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please fork the 402framework from the course GitHub account, and merge this week's changes with your local copy
   * [GitHub - 402framework Repository](https://github.com/dighteach/402framework)
   * ensure this code is working correctly with your sample database
@@ -98,7 +99,7 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 
 #### Week 5 - 11th February 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please pull this week's source code from the course GitHub account,
   * [GitHub - 402framework - v0.1](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.1)
   * ensure this code is working correctly with your sample database
@@ -107,7 +108,7 @@ SQL available in the [week 10 directory](https://github.com/dighteach/source/tre
 
 #### Week 4 - 4th February 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please pull this week's source code from the course GitHub account,
   * [GitHub - Week 4](https://github.com/dighteach/source/tree/master/2015/DIGH402/week4)
 * Using the above source code as an example, please write a PHP class and test script, which is able to produce the following output,
@@ -119,7 +120,7 @@ Please be prepared to briefly demonstrate this working code at the start of next
 
 #### Week 3 - 28th January 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Please import the sample MySQL database, *402week3.sql*, which is available on GitHub.
   * [GitHub - Week 3](https://github.com/dighteach/source/tree/master/2015/DIGH402/week3)
   * import to a new database called *402framework*
@@ -137,7 +138,7 @@ We will go through this work at the start of next week's class.
   
 #### Week 2 - 21st January 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
 * Using the sample code provided in this week's notes and course repository, please complete the following tasks
   * create a new database called '402framework'
   * add a new table for each of the following
@@ -153,6 +154,6 @@ We will discuss this work at the start of next week's class.
 
 #### Week 1 - 14th January 2015
 
-* Review this week's [notes and material](/notes), which includes the class and extra notes
-* Review the DH links and resources posted in the *[Links & Resources](/links)* section.
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review the DH links and resources posted in the *[Links & Resources](/links)* section.
 
