@@ -19,6 +19,7 @@ summary: weekly assessment for COMP 488 & DIGH 402
 * Please ensure you have read and understood the latest code for v0.6 and v0.7 of the 402framework, which is available on the course GitHub account
   * [GitHub - v0.6](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.6)
   * [GitHub - v0.7](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.7)
+  * [402framework v0.7 test site](http://linode4.cs.luc.edu/teaching/digh/402framework/v0.7/?node=content/text&id=1)
 * Please ensure you have a working, up to date version of the 402framework. This includes the code for the latest version, [v0.7](https://github.com/dighteach/source/tree/master/2015/DIGH402/402framework/v0.7) on GitHub, and the
 SQL available in the [week 13/402frameworkv0.7.sql directory](https://github.com/dighteach/source/blob/master/2015/DIGH402/402framework/sql/week13/402frameworkv0.7.sql) on GitHub.
 * Please ensure you have read and understood the latest code for the 402mini week 13 framework, which is available on the course GitHub account
