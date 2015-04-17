@@ -84,3 +84,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * Browser Testing
     * [BrowserStack](http://www.browserstack.com/)
   * [Bootstrap](http://getbootstrap.com/)
+  * Mapping lookup tools
+    * Google Maps - [Places Library](https://developers.google.com/maps/documentation/javascript/places)
+    * [Geonames Gazetteer](http://download.geonames.org/export/dump/)
+    * Twitter API - [geo/search](https://dev.twitter.com/rest/reference/get/geo/search)

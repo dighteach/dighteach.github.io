@@ -12,6 +12,16 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 14 - 15th April 2015
+
+* Please review this week's [notes and material](/notes), which includes the class and extra notes
+* Please review the [Final Report Outline](/assets/docs/DIGH402-FinalReportOutline.pdf).
+* Please prepare your project's presentation for next week's class, Wednesday 22nd April 2015 at 4.15pm.
+  * full details may be found on slide 2 of this week's [course notes](/assets/docs/402week142015.pdf)
+  
+
+Any questions please let me know.
+
 #### Week 13 - 8th April 2015
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
