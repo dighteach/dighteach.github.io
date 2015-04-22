@@ -22,6 +22,13 @@ summary: weekly assessment for COMP 488 & DIGH 402
 
 Any questions please let me know.
 
+
+* [Presentation considerations](http://goo.gl/sa1KoH)
+  * [Group 1 peer review - Amanda & Di](http://goo.gl/ohUq0t)
+  * [Group 2 peer review - Heather & Riley](http://goo.gl/vCNyLj)
+  * [Group 3 peer review - Brittany & Julie](http://goo.gl/oHAeyF)
+
+
 #### Week 13 - 8th April 2015
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
