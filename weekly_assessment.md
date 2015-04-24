@@ -12,6 +12,20 @@ published: true
 summary: weekly assessment for COMP 488 & DIGH 402
 ---
 
+#### Week 15 - 22nd April 2015
+
+* Please complete your final course assessment, the 'Design Project Report'. An outline report is available at the following URL,
+  * [Final Report Outline](/assets/docs/DIGH402-FinalReportOutline.pdf).
+* In addition to the suggested final report outline, please feel free to submit other pertinent work or data for consideration
+  * if you submit additional material for consideration, please document and explain it in your report's appendix
+* Each report is an individual student submission, although it may include some shared project details and information
+  * eg: project overview, screenshots, data...
+* Report is due on Wednesday 29th April 2015 by 4.15pm.
+* Please send me a PDF copy of this report. This can be sent as an email attachment to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488/DIGH402 Final Report) 
+or shared via an online service such as Google Drive, Dropbox etc.
+
+Any questions please let me know.
+
 #### Week 14 - 15th April 2015
 
 * Please review this week's [notes and material](/notes), which includes the class and extra notes
@@ -22,12 +36,12 @@ summary: weekly assessment for COMP 488 & DIGH 402
 
 Any questions please let me know.
 
-
+<!--
 * [Presentation considerations](http://goo.gl/sa1KoH)
   * [Group 1 peer review - Amanda & Di](http://goo.gl/ohUq0t)
   * [Group 2 peer review - Heather & Riley](http://goo.gl/vCNyLj)
   * [Group 3 peer review - Brittany & Julie](http://goo.gl/oHAeyF)
-
+-->
 
 #### Week 13 - 8th April 2015
 
